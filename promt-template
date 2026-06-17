@@ -5,7 +5,7 @@ Ich plane die Entwicklung einer Fullstack-Projektmanagement-App (inklusive Task-
 ## 1. Mein Tech-Stack
 * **Backend-Sprache/Framework:** Node.js mit TypeScript & Express
 * **Datenbank:** postgres
-* **Frontend-Technologie:** 
+* **Frontend-Technologie:** react 
 * **Authentifizierung:** Authentik (via OIDC / OAuth2 für Web und Basic Auth für WebDAV)
 
 ## 2. Kernfunktionen des Fileservers
